@@ -1,49 +1,71 @@
 [
-id:1,
-name: 'Lara Jean',
-username: 'Lara',
-email:'lovelara@gmail.com'
+{
+"profile": {
+"id":1,
+"name": "Lara Jean",
+"username": "Lara",
+"email":"lovelara@gmail.com"
+   }
+},
+
+{
+    "profile": {
+        "id":2,
+        "name": "Zack Demsy",
+        "username": "Zacky",
+        "email":"sweetplayer69@gmail.com"
+               }
+},
+
+ 
+{
+    "profile":{
+"id":3,
+"name": "Clay Jenson",
+"username": "Helmet",
+"email":"disturbeddude101@gmail.com"
+   }
+},
+
+{
+    "profile":{
+"id":4,
+"name": "Tony stark",
+"username": "Iron man",
+"email":"ironman2000@gmail.com"
+    }
 },
 {
-id:2,
-name: 'Zack Demsy',
-username: 'Zacky',
-email:'sweetplayer69@gmail.com'
-}, 
-{
-id:3,
-name: 'Clay Jenson',
-username: 'Helmet',
-email:'disturbeddude101@gmail.com'
+    "profile":{
+"id":5,
+"name": "Paxton Yoshida",
+"username":"Paxton",
+"email":"thathotguy@gmail.com"
+}
 },
 {
-id:4,
-name: 'Tony stark',
-username: 'Iron man',
-email:'ironman2000@gmail.com'
+    "profile":{
+"id":6,
+"name": "Jonas Kahnwald",
+"username": "Jonas",
+"email":"glitchinthematrix01@gmail.com"
+    }
 },
 {
-id:5,
-name: 'Paxton Yoshida',
-username: 'Paxton',
-email:'thathotguy@gmail.com'
+    "profile":{
+"id":7,
+"name": "Jughead",
+"username": "Serpant",
+"email":"southsideserpant@gmail.com"
+    }
 },
 {
-id:6,
-name: 'Jonas Kahnwald',
-username: 'Jonas',
-email:'glitchinthematrix01@gmail.com'
-},
-{
-id:7,
-name: 'Jughead',
-username: 'Serpant',
-email:'southsideserpant@gmail.com'
-},
-{
-id:8,
-name: 'Professor',
-username: 'Leader',
-email:'welcometotheheist@gmail.com'
-},
+    "profile":{
+"id":8,
+"name": "Professor",
+"username": "Leader",
+"email":"welcometotheheist@gmail.com"
+    }
+}
 ]
+ 
