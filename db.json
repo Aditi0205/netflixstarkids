@@ -1,4 +1,4 @@
-
+[
 id:1,
 name: 'Lara Jean',
 username: 'Lara',
@@ -46,3 +46,4 @@ name: 'Professor',
 username: 'Leader',
 email:'welcometotheheist@gmail.com'
 },
+]
